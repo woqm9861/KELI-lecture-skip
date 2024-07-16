@@ -16,6 +16,11 @@
 
 1.  **한국고용노동교육원** 홈페이지에 들어가 원하는 차시의 `학습하기`를 클릭합니다.
 
-![image](https://github.com/user-attachments/assets/f0de7994-c355-4094-89d5-b4415949651a)
+      ![image](https://github.com/user-attachments/assets/f0de7994-c355-4094-89d5-b4415949651a)
 
-2. 
+
+2. 영상 시청 페이지에 들어와 관리자 도구를 열고 `Snippets`를 선택합니다.
+
+3. [keli-skip-snippet.js]()의 코드를 복사한 후, 새로운 Snippet를 생성하여 붙여넣고 `Ctrl+Enter`로 실행합니다.
+
+4. 
